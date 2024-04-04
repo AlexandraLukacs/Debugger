@@ -7,7 +7,7 @@ public class DebuggerHasznalat {
     
     public static void main(String[] args) {
         peldak();
-        //hiányzik egy new -> 
+        //hiányzik egy new (itt tömbnél) -> NullPointerException
     }
 
     private static void peldak() {
